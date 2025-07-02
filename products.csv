@@ -1,0 +1,26 @@
+ProductID,ProductName,LaunchDate,ProductDesc,ProductCat,PlantType,Tier,InitialPrice
+1,Fern Fantasy,2018-11-08,"A lush collection of various fern species, perfect for adding greenery to your indoor spaces.",Indoor Plants,Outdoor,Premium,121
+2,Succulent Symphony,2019-05-07,"An assorted arrangement of hardy succulents, ideal for low-maintenance indoor gardening.",Indoor Plants,Indoor,Basic,5
+3,Orchid Oasis,2016-03-23,"Exquisite orchids in a variety of colors, bringing elegance and beauty to any room.",Flowering Plants,Outdoor,Standard,10
+4,Cactus Collection,2017-11-24,"A diverse mix of cacti, offering a touch of desert beauty for your home or office.",Indoor Plants,Indoor,Basic,10
+5,Bonsai Beauty,2019-04-08,"Miniature trees carefully sculpted for years, representing the art of bonsai in your living space.",Indoor Plants,Outdoor,Premium,75
+6,Palm Paradise,2017-06-21,"Tropical palm trees that bring a piece of paradise into your home, perfect for spacious rooms.",Indoor Trees,Indoor,Basic,6
+7,Herb Harmony,2016-08-12,"A selection of culinary herbs to enhance your cooking, freshly grown at your fingertips.",Edible Plants,Outdoor,Premium,68
+8,Vine Variety,2016-12-21,"A collection of climbing vines, ideal for decorating walls or creating natural green screens.",Climbing Plants,Indoor,Basic,6
+9,Flower Finesse,2015-12-26,"A curated selection of blooming flowers, adding color and fragrance to your garden.",Flowering Plants,Outdoor,Standard,33
+10,Bamboo Bliss,2019-12-25,"Fast-growing bamboo plants, ideal for creating natural privacy screens or zen gardens.",Outdoor Plants,Indoor,Basic,5
+11,Aloe Amity,2015-11-27,"Soothing aloe vera plants, known for their medicinal benefits and easy care.",Indoor Plants,Outdoor,Premium,126
+12,Ivy Intrigue,2016-12-28,Elegant ivy varieties that bring a classic touch to any garden or indoor space.,Climbing Plants,Indoor,Basic,10
+13,Peony Perfection,2017-12-23,"Lush peonies with large, fragrant blooms, symbolizing prosperity and romance.",Flowering Plants,Outdoor,Premium,109
+14,Rose Radiance,2018-09-03,"Luxurious roses in a spectrum of colors, the classic choice for love and appreciation.",Flowering Plants,Indoor,Basic,5
+15,Lily Luxury,2019-03-07,"Graceful lilies with striking flowers, adding sophistication to any arrangement.",Flowering Plants,Outdoor,Standard,28
+16,Daisy Delight,2019-09-07,"Cheerful daisies, embodying simplicity and innocence in your garden.",Flowering Plants,Indoor,Basic,8
+17,Tulip Treasure,2016-04-25,"Vibrant tulips, a symbol of perfect love, bringing a splash of color to spring gardens.",Flowering Plants,Outdoor,Premium,44
+18,Marigold Majesty,2018-02-26,"Bright and hardy marigolds, offering vibrant color and pest control benefits.",Flowering Plants,Indoor,Basic,5
+19,Violet Vision,2015-10-21,"Delicate violets with their distinct fragrance, adding a subtle charm to shaded areas.",Flowering Plants,Outdoor,Premium,51
+20,Jasmine Joy,2016-04-28,"Fragrant jasmine vines, perfect for creating sweet-scented outdoor or indoor havens.",Climbing Plants,Indoor,Basic,6
+21,Sunflower Serenity,2018-07-12,"Majestic sunflowers, turning heads with their sunny disposition and towering height.",Flowering Plants,Outdoor,Standard,17
+22,Daffodil Dream,2019-08-15,"Bright daffodils, heralding the arrival of spring with their cheerful blooms.",Flowering Plants,Indoor,Basic,9
+23,Hyacinth Haven,2017-01-04,"Fragrant hyacinths, bringing early spring color and sweet aroma to gardens.",Flowering Plants,Outdoor,Premium,117
+24,Gardenia Glory,2016-08-04,"Elegant gardenias, known for their beautiful white flowers and exquisite fragrance.",Flowering Plants,Indoor,Basic,5
+25,Lavender Love,2016-06-22,"Fragrant lavender, offering beauty, aroma, and culinary uses, ideal for a calming garden.",Edible Plants,Outdoor,Premium,111
